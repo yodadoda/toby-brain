@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+venv/
+.venv/
+env/
+
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+
+# Ignore the model
+*.gguf

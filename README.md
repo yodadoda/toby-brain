@@ -1,3 +1,4 @@
+# Project TOBY: The Brain subsystem
 ___
 ## Introduction
 Welcome to the Brain module of Project TOBY. This repository contains the code for the robot's central reasoning engine.
@@ -143,7 +144,7 @@ output = self.llm(
 
 ---
 
-## 📚 Troubleshooting
+## Troubleshooting
 
 **"Model not found" error?**
 - Ensure `toby-brain-q4.gguf` is in the **exact same folder** as `brain.py`.
